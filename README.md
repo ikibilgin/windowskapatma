@@ -14,4 +14,4 @@ Bu proje, Github'da şekilli bir readme dosyası oluşturmak için Markdown dili
 <a>Hepinizi Seviyorum, Hürmetler</a>
     
     
-Benim Instagram adresim için [buraya](https://www.instagram.com/kullanici_adi) tıklayabilirsiniz.
+Benim Instagram adresim için [buraya](https://www.instagram.com/muhammedlinux) tıklayabilirsiniz.
