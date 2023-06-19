@@ -10,7 +10,7 @@ Bu proje, Github'da şekilli bir readme dosyası oluşturmak için Markdown dili
 > Dikkatli olun. Çalıştırdığınız anda başlatır
 
 <div style="border: 1px solid black; padding: 10px;">
-    <h3>AÇIKLAMALRIM</h3>
+    <h3>AÇIKLAMA</h3>
 <a>Hepinizi Seviyorum, Hürmetler</a>
     
     
